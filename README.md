@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
