@@ -9,9 +9,9 @@ int fmax(vector<int> arr) {
 
 long long hour(vector<int>& arr, int mid) {
     long long thr = 0;
-    int m = arr.size();
+    int n = arr.size();
 
-    for (int i = 0; i < m; i++) {
+    for (int i = 0; i < n; i++) {
         thr += (long long)ceil((double)arr[i] / (double)mid);
     }
     return thr;
