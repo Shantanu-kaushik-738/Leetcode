@@ -26,7 +26,7 @@ public:
             maxi = max(bloomDay[i], maxi);
         }
 
-        if ((long long) m * k > n) {
+        if ((long long)m * k > n) {
             return -1;
         }
         int low = mini, high = maxi;
