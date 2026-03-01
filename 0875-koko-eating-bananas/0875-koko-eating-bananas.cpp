@@ -1,24 +1,24 @@
-int fmax(vector<int> arr) {
-    int mx = 0;
-
-    for (int i = 0; i < arr.size(); i++) {
-        mx = max(mx, arr[i]);
-    }
-    return mx;
-}
-
-long long hour(vector<int>& arr, int mid) {
-    long long thr = 0;
-    int n = arr.size();
-
-    for (int i = 0; i < n; i++) {
-        thr += (long long)ceil((double)arr[i] / (double)mid);
-    }
-    return thr;
-}
-
 class Solution {
 public:
+    int fmax(vector<int> arr) {
+        int mx = 0;
+
+        for (int i = 0; i < arr.size(); i++) {
+            mx = max(mx, arr[i]);
+        }
+        return mx;
+    }
+
+    long long hour(vector<int>& arr, int mid) {
+        long long thr = 0;
+        int n = arr.size();
+
+        for (int i = 0; i < n; i++) {
+            thr += (long long)ceil((double)arr[i] / (double)mid);
+        }
+        return thr;
+    }
+
     int minEatingSpeed(vector<int>& piles, int h) {
         int st = 1;
         int m = piles.size();
