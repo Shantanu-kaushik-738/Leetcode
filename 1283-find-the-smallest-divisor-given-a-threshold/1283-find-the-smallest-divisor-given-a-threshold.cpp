@@ -3,7 +3,7 @@ public:
     int sumofD(vector<int>& nums, int n) {
         int sum = 0;
         for (auto v : nums) {
-            sum += ceil((double)v / n);
+            sum += (v + n - 1) / n;
         }
         return sum;
     }
