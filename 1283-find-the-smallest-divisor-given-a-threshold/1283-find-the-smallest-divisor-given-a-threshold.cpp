@@ -1,29 +1,26 @@
 class Solution {
 public:
-    int sumofD(vector<int>& nums, int n) {
+    int sumofD(vector<int>& nums, int n, int threshold) {
         int sum = 0;
         for (auto v : nums) {
             sum += ceil((double)v / n);
         }
-        return sum;
+        return sum <= threshold;
     }
 
     int smallestDivisor(vector<int>& nums, int threshold) {
-        int maxi = *max_element(nums.begin(), nums.end());
+        int high = *max_element(nums.begin(), nums.end());
         int low = 1;
-        int high = maxi;
-        int ans = -1;
 
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
-            if (sumofD(nums, mid) <= threshold) {
-                ans = mid;
+            if (sumofD(nums, mid, threshold)) {
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-        return ans;
+        return low;
     }
 };
