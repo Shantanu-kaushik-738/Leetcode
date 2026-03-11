@@ -6,8 +6,8 @@ public:
         }
 
         sort(nums.begin(), nums.end());
-        int maxi = 0;
-        int cnt = 0;
+        int maxi = 1;
+        int cnt = 1;
 
         for (int i = 0; i < nums.size() - 1; i++) {
             if (nums[i] == nums[i + 1]) {
@@ -16,10 +16,10 @@ public:
                 cnt++;
             } else {
                 maxi = max(maxi, cnt);
-                cnt = 0;
+                cnt = 1;
             }
         }
         maxi = max(maxi, cnt);
-        return maxi + 1;
+        return maxi;
     }
 };
