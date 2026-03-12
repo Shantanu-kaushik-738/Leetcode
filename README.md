@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
