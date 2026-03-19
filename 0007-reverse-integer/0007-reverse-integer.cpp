@@ -1,16 +1,17 @@
 class Solution {
 public:
     int reverse(int n) {
-        int reverse = 0;
+        long long r = 0;
 
         while (n) {
             int d = n % 10;
-            if (reverse > INT_MAX / 10 || reverse < INT_MIN / 10) {
+            r = r * 10 + d;
+            n /= 10;
+
+            if (r > INT_MAX || r < INT_MIN) {
                 return 0;
             }
-            reverse = reverse * 10 + d;
-            n /= 10;
         }
-        return reverse;
+        return (int)r;
     }
 };
