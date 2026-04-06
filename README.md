@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0326-power-of-three) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0125-valid-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0657-robot-return-to-origin) |
 ## Dynamic Programming
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0169-majority-element) |
