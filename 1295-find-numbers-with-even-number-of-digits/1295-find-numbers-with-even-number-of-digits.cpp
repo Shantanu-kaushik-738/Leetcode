@@ -5,9 +5,8 @@ public:
         for (int i : nums) {
             int ci = 0;
             while (i != 0) {
-                int d = i % 10;
-                ci++;
                 i /= 10;
+                ci++;
             }
             if (ci % 2 == 0) {
                 cnt++;
