@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0229-majority-element-ii) |
+| [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Simulation
 |  |
 | ------- |
