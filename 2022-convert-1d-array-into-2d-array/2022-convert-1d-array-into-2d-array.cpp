@@ -6,7 +6,7 @@ public:
             return {};
         }
 
-        vector<vector<int>> ans(n, vector<int>(m, 0));
+        vector<vector<int>> ans(n, vector<int>(m));
 
         for (int i = 0; i < original.size(); i++) {
             ans[i / m][i % m] = original[i];
