@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -230,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
