@@ -2,9 +2,9 @@ class Solution {
 public:
     int mostWordsFound(vector<string>& sentences) {
         int cnt = 0;
-        for (int i = 0; i < sentences.size(); i++) {
+        for (auto c : sentences) {
             int ci = 0;
-            for (auto ch : sentences[i]) {
+            for (auto ch : c) {
                 if (ch == ' ') {
                     ci++;
                 }
