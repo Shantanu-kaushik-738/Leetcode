@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3110-score-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
