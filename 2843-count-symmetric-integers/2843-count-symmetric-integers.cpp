@@ -3,7 +3,7 @@ public:
     int countSymmetricIntegers(int low, int high) {
         int cnt = 0;
 
-        for (int i = low; i <= high; ++i) {
+        for (int i = low; i <= high; i++) {
             string s = to_string(i);
             int n = s.length();
 
@@ -11,11 +11,11 @@ public:
                 int ls = 0;
                 int rs = 0;
 
-                for (int j = 0; j < n / 2; ++j) {
+                for (int j = 0; j < n / 2; j++) {
                     ls += s[j];
                 }
 
-                for (int j = n / 2; j < n; ++j) {
+                for (int j = n / 2; j < n; j++) {
                     rs += s[j];
                 }
 
