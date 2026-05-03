@@ -7,7 +7,7 @@ public:
             int f = nums[i];
             int t = nums[i + 2];
             int m = nums[i + 1];
-            if (f + t == (double)m / 2.0) {
+            if ((f + t == m / 2) * (m % 2 == 0)) {
                 cnt++;
             }
         }
