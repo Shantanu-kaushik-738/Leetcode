@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0202-happy-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0342-power-of-four) |
