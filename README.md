@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3227-vowels-game-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3516-find-closest-person) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
