@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0443-string-compression) |
 | [0832-flipping-an-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0796-rotate-string) |
