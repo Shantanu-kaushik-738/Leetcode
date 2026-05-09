@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
