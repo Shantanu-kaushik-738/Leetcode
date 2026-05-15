@@ -10,7 +10,7 @@ public:
 
             if (arr[st] <= arr[end]) {
                 ans = min(ans, arr[st]);
-                break;
+                return ans;
             }
 
             if (arr[st] <= arr[mid]) {
