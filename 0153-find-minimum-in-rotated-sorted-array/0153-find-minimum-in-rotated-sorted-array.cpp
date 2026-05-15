@@ -8,11 +8,6 @@ public:
         while (st <= end) {
             int mid = st + (end - st) / 2;
 
-            if (arr[st] <= arr[end]) {
-                ans = min(ans, arr[st]);
-                return ans;
-            }
-
             if (arr[st] <= arr[mid]) {
                 ans = min(ans, arr[st]);
                 st = mid + 1;
