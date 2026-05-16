@@ -1,27 +1,19 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
-
-        int n = *max_element(nums.begin(), nums.end());
+        int mxi = 0;
         unordered_map<int, int> mp;
-
-        if (nums.size() != n + 1) {
-            return false;
-        }
 
         for (auto& i : nums) {
             mp[i]++;
+            mxi = max(mxi, i);
         }
 
-        for (int i = 1; i < n; i++) {
-            if (mp[i] != 1) {
+        for (int i = 1; i < nums.size(); i++) {
+            if (mp[i] == 0) {
                 return false;
             }
         }
-
-        if (mp[n] != 2) {
-            return false;
-        }
-        return true;
+        return mp[mxi] == 2 && nums.size() == mxi + 1;
     }
 };
