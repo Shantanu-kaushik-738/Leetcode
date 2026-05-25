@@ -5,7 +5,7 @@ public:
 
         for (auto& str : strs) {
             string temp = str;
-            sort(temp.begin(), temp.end());
+            sort(begin(temp), end(temp));
             mpp[temp].push_back(str);
         }
 
