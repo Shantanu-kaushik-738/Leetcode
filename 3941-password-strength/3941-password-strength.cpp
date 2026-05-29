@@ -2,13 +2,13 @@ class Solution {
 public:
     int passwordStrength(string password) {
         int ans = 0;
-        unordered_set<char> stt;
+        unordered_map<char,int> mpp;
 
         for (auto& st : password) {
-            if (stt.count(st)) {
+            if (mpp.count(st)) {
                 continue;
             }
-            stt.insert(st);
+            mpp[st]++;
 
             if (st >= 'a' && st <= 'z') {
                 ans++;
