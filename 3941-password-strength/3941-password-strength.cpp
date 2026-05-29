@@ -2,7 +2,7 @@ class Solution {
 public:
     int passwordStrength(string password) {
         int ans = 0;
-        unordered_map<char,int> mpp;
+        unordered_map<char, int> mpp;
 
         for (auto& st : password) {
             if (mpp.count(st)) {
