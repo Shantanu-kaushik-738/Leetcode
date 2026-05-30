@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1291-sequential-digits) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
