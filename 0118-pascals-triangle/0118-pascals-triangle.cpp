@@ -1,10 +1,10 @@
 vector<int> ncr(int r) {
     int res = 1;
-    vector<int>ans;
+    vector<int> ans;
     ans.push_back(res);
     for (int i = 1; i < r; i++) {
         res *= (r - i);
-        res /= (i );
+        res /= (i);
         ans.push_back(res);
     }
     return ans;
