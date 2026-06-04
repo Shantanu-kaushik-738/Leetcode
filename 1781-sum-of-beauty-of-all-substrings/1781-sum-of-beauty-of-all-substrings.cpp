@@ -1,5 +1,16 @@
 class Solution {
 private:
+    int max_el(vector<int> nums) {
+        int mx = -1e9;
+        for (auto i : nums) {
+            if (i > mx && i > 0) {
+                mx = i;
+            }
+        }
+        return mx;
+    }
+
+private:
     int min_el(vector<int> nums) {
         int mn = 1e9;
         for (auto i : nums) {
@@ -20,7 +31,7 @@ public:
             for (int j = i; j < n; j++) {
                 alp[s[j] - 'a']++;
 
-                int mx = *max_element(begin(alp), end(alp));
+                int mx = max_el(alp);
                 int mn = min_el(alp);
 
                 ans += mx - mn;
