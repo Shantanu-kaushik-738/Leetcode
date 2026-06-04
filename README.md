@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0443-string-compression) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0704-binary-search) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0832-flipping-an-image) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
