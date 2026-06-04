@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0509-fibonacci-number) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1291-sequential-digits) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
