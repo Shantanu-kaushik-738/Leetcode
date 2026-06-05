@@ -1,27 +1,29 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if (n == 0)
-            return 1.0;
-        if (x == 0)
-            return 0.0;
-        if (n == 0);
-
-        long binform = n;
-        if (n < 0) {
-            x = 1 / x;
-            binform = -binform;
-        }
         double ans = 1.0;
+        int t = n;
 
-        while (binform > 0) {
-            if (binform % 2 == 1) {
-                ans *= x;
-            }
-            x *= x;
-            binform /= 2;
+        if (x == 1.0) {
+            return 1.0;
         }
 
+        if (t < 0) {
+            t = -1 * t;
+        }
+
+        while (t > 0) {
+            if (t % 2 == 1) {
+                ans *= x;
+                t--;
+            } else {
+                x *= x;
+                t /= 2;
+            }
+        }
+        if (n < 0) {
+            ans = 1.0 / ans;
+        }
         return ans;
     }
 };
