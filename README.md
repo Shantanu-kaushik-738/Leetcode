@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
