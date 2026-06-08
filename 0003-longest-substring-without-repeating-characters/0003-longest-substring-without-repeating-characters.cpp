@@ -2,19 +2,20 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
+        vector<int> v(256, -1);
+
+        int l = 0, r = 0;
         int ml = 0;
 
-        for (int i = 0; i < n; i++) {
-            vector<int> v(256);
-            int l = 0;
-            for (int j = i; j < n; j++) {
-                if (v[s[j]] == 1) {
-                    break;
+        while (r < n) {
+            if (v[s[r]] != -1) {
+                if (v[s[r]] >= l) {
+                    l = v[s[r]] + 1;
                 }
-                l = j - i + 1;
-                ml = max(ml, l);
-                v[s[j]] = 1;
             }
+            ml = max(ml, (r - l + 1));
+            v[s[r]] = r;
+            r++;
         }
         return ml;
     }
