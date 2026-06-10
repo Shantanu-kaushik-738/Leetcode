@@ -21,10 +21,10 @@ public:
             int d = s[i] - '0';
             num = num * 10 + d;
 
-            if (sn * num > INT_MAX) {
+            if (sn * num >= INT_MAX) {
                 return INT_MAX;
             }
-            if (sn * num < INT_MIN) {
+            if (sn * num <= INT_MIN) {
                 return INT_MIN;
             }
             i++;
