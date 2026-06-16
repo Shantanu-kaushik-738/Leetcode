@@ -1,40 +1,29 @@
 class Solution {
 public:
     vector<string> res;
-    bool valid(string str) {
-        int cnt = 0;
 
-        for (auto& c : str) {
-            if (c == '(') {
-                cnt++;
-            } else {
-                cnt--;
-            }
-            if (cnt < 0) {
-                return false;
-            }
-        }
-        return cnt == 0;
-    }
-
-    void solve(string curr, int& n) {
+    void solve(string curr, int& n, int op, int cl) {
         if (curr.size() == 2 * n) {
-            if (valid(curr)) {
-                res.push_back(curr);
-            }
+            res.push_back(curr);
             return;
         }
 
-        curr.push_back('(');
-        solve(curr, n);
-        curr.pop_back();
+        if (op < n) {
+            curr.push_back('(');
+            solve(curr, n, op + 1, cl);
+            curr.pop_back();
+        }
 
-        curr.push_back(')');
-        solve(curr, n);
-        curr.pop_back();
+        if (cl < op) {
+            curr.push_back(')');
+            solve(curr, n, op, cl + 1);
+            curr.pop_back();
+        }
     }
     vector<string> generateParenthesis(int n) {
-        solve("", n);
+        int op = 0;
+        int cl = 0;
+        solve("", n, op, cl);
         return res;
     }
 };
