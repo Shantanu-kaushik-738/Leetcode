@@ -7,6 +7,8 @@ public:
             if (i <= coins) {
                 cnt++;
                 coins -= i;
+            } else {
+                break;
             }
         }
         return cnt;
