@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1816-truncate-sentence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1816-truncate-sentence) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
