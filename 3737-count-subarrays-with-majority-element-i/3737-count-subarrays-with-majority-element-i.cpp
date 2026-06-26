@@ -2,21 +2,18 @@ class Solution {
 public:
     int countMajoritySubarrays(vector<int>& nums, int target) {
         int n = nums.size();
-        int p = n + 1;
         int cnt = 0;
 
-        vector<int> freq(2 * n + 2);
-        vector<int> pre(2 * n + 2);
-
-        freq[p] = 1;
-        pre[p] = 1;
-
-        for (auto& i : nums) {
-            p += (i == target ? 1 : -1);
-            freq[p]++;
-
-            pre[p] = pre[p - 1] + freq[p];
-            cnt += pre[p - 1];
+        for (int i = 0; i < n; i++) {
+            int c1 = 0;
+            for (int j = i; j < n; j++) {
+                if (nums[j] == target) {
+                    c1++;
+                }
+                if (c1 > (j - i + 1) / 2) {
+                    cnt++;
+                }
+            }
         }
         return cnt;
     }
