@@ -6,13 +6,12 @@ public:
             return;
         }
 
-        for (int j = i; j <= 9; j++) {
-            if (j > n || k < 1) break;
+        if (i > 9 || n < 0 || k < 1) return;
 
-            arr.push_back(j);
-            helper(k - 1, n - j, arr, res, j + 1);
-            arr.pop_back();
-        }
+        arr.push_back(i); // inclusion
+        helper(k - 1, n - i, arr, res, i + 1);
+        arr.pop_back(); // exclusion
+        helper(k, n, arr, res, i + 1);
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
