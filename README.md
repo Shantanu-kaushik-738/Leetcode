@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2235-add-two-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
