@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2235-add-two-integers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
