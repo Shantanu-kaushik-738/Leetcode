@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2235-add-two-integers) |
+| [2582-pass-the-pillow](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2582-pass-the-pillow](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2974-minimum-number-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
