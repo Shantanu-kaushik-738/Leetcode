@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1006-clumsy-factorial](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0867-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1006-clumsy-factorial](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3174-clear-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3174-clear-digits) |
