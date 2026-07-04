@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2582-pass-the-pillow](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0204-count-primes) |
+| [2413-smallest-even-multiple](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Linked List
 |  |
 | ------- |
