@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1288-remove-covered-intervals](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
