@@ -1,9 +1,14 @@
 class Solution {
 public:
     bool palindrome(string s) {
-        string s2 = s;
-        reverse(begin(s), end(s));
-        return (s == s2);
+        int st = 0, end = s.length() - 1;
+
+        while (st < end) {
+            if (s[st++] != s[end--]) {
+                return false;
+            }
+        }
+        return true;
     }
 
     void helper(string s, vector<string>& temp, vector<vector<string>>& ans) {
