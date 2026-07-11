@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1487-making-file-names-unique](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1487-making-file-names-unique](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1487-making-file-names-unique](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
