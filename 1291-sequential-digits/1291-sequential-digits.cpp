@@ -1,22 +1,21 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
-        vector<int> nums;
-
-        for (int i = 1; i <= 9; i++) {
-            int num = i;
+        vector<int> res;
+        
+        for (int i = 1; i < 9; i++) {
+            int num = i; 
             int j = i + 1;
 
-            while (num <= high && j <= 9) {
+            while (low <= high && j <= 9) {
                 num = num * 10 + j;
-
                 if (low <= num && num <= high) {
-                    nums.push_back(num);
+                    res.push_back(num);
                 }
                 j++;
             }
         }
-        sort(begin(nums), end(nums));
-        return nums;
+        sort(begin(res), end(res));
+        return res;
     }
 };
