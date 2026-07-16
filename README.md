@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3813-vowel-consonant-score](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -562,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
