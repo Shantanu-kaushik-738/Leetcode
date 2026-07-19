@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1006-clumsy-factorial](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1006-clumsy-factorial) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Combinatorics
