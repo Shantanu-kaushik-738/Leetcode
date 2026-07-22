@@ -1,18 +1,15 @@
 class Solution {
 public:
     int countPrimes(int n) {
-        vector<bool> ip(n + 1, true);
-        int cn = 0;
+        vector<bool> prime(n + 1, true);
+        int cnt = 0;
 
         for (int i = 2; i < n; i++) {
-            if (ip[i]) {
-                cn++;
-
-                for (int j = i * 2; j < n; j += i) {
-                    ip[j] = false;
-                }
+            if (prime[i]) {
+                cnt++;
+                for (int j = 2 * i; j < n; j += i) prime[j] = false;
             }
         }
-        return cn;
+        return cnt;
     }
 };
