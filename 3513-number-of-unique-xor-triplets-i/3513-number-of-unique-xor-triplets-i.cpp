@@ -5,7 +5,7 @@ public:
 
         if (n < 20) {
             set<int> st;
-            for (auto& num : nums) st.insert(num);
+            for (auto& p : nums) st.insert(p);
             for (int i = 0; i < n; i++) {
                 for (int j = i + 1; j < n; j++) {
                     for (int k = j + 1; k < n; k++) {
