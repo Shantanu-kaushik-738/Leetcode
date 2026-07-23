@@ -1,23 +1,11 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        int n = nums.size();
-
-        if (n < 20) {
-            set<int> st;
-            for (auto& p : nums) st.insert(p);
-            for (int i = 0; i < n; i++) {
-                for (int j = i + 1; j < n; j++) {
-                    for (int k = j + 1; k < n; k++) {
-                        st.insert(nums[i] ^ nums[j] ^ nums[k]);
-                    }
-                }
-            }
-            return st.size();
+        int a = 1;
+        if (nums.size() < 3) return nums.size();
+        else {
+            while (a <= nums.size()) a *= 2;
         }
-
-        int m = 0;
-        while ((1 << m) <= n) m++;
-        return (1 << m);
+        return a;
     }
 };
