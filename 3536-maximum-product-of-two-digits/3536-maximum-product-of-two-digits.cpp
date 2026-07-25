@@ -1,20 +1,15 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int st = 0;
-        int lst = 0;
+        int low = 0, high = 0;
 
-        while (n != 0) {
-            int d = n % 10;
-
-            if (d > st) {
-                lst = st;
-                st = d;
-            } else if (lst < d) {
-                lst = d;
-            }
+        while (n) {
+            if (n % 10 > high) {
+                low = high;
+                high = n % 10;
+            } else if (n % 10 > low) low = n % 10;
             n /= 10;
         }
-        return (st * lst);
+        return low * high;
     }
 };
