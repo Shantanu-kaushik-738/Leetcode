@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2974-minimum-number-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2974-minimum-number-game) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3523-make-array-non-decreasing](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
