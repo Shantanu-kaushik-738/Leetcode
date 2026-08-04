@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3637-trionic-array-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3889-mirror-frequency-distance](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3889-mirror-frequency-distance) |
