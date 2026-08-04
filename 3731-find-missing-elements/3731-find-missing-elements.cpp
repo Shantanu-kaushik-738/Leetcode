@@ -4,9 +4,10 @@ public:
         int mn = *min_element(begin(nums), end(nums));
         int mx = *max_element(begin(nums), end(nums));
 
+        unordered_set<int> s(begin(nums), end(nums));
         vector<int> res;
         for (int i = mn; i <= mx; i++) {
-            if (count(begin(nums), end(nums), i) == 0) res.push_back(i);
+            if (!s.count(i)) res.push_back(i);
         }
         return res;
     }
