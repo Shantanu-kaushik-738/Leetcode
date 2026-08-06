@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
