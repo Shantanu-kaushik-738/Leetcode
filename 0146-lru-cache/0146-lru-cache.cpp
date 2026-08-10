@@ -20,13 +20,13 @@ public:
     int limit;
 
     void add(Node* node) {
-    Node* temp = head->next;
-    node->next = temp;
-    node->prev = head;
-    
-    head->next = node;
-    temp->prev = node; 
-}
+        Node* temp = head->next;
+        node->next = temp;
+        node->prev = head;
+
+        head->next = node;
+        temp->prev = node; 
+    }
 
     void del(Node* node) {
         Node* Oprev = node->prev;
