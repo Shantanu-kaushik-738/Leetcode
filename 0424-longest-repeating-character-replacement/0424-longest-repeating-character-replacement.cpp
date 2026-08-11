@@ -1,5 +1,5 @@
 class Solution {
-   public:
+public:
     int characterReplacement(string s, int k) {
         int res = 0;
         int l = 0, r = 0, frq = 0;
@@ -9,7 +9,7 @@ class Solution {
             mp[s[r] - 'A']++;
             frq = max(frq, mp[s[r] - 'A']);
 
-            while ((r - l + 1) - frq > k) {
+            if ((r - l + 1) - frq > k) {
                 mp[s[l] - 'A']--;
                 frq = 0;
 
