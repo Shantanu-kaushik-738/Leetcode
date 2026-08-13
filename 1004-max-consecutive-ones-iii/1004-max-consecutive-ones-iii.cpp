@@ -6,7 +6,7 @@ public:
 
         while (r < nums.size()) {
             if (!nums[r]) zero++;
-            while (zero > k) {
+            if (zero > k) {
                 if (!nums[l]) zero--;
                 l++;
             }
