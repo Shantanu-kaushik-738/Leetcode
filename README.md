@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
