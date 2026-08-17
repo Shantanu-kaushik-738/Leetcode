@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-making-file-names-unique](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Greedy
