@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1487-making-file-names-unique](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1487-making-file-names-unique) |
 | [1748-sum-of-unique-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0832-flipping-an-image) |
+| [1386-cinema-seat-allocation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
