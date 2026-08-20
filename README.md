@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2596-check-knight-tour-configuration](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2974-minimum-number-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3174-clear-digits) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
