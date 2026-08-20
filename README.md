@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0735-asteroid-collision) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -681,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -824,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
