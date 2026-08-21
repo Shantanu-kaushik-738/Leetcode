@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3227-vowels-game-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -769,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Merge Sort
 |  |
 | ------- |
