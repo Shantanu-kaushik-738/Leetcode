@@ -5,7 +5,7 @@ public:
         ll cnt = 0;
         int n = coins.size();
 
-        for (int ex = 1; ex <= (1 << n) - 1; ex++) { // i <= 2 ^ n - 1
+        for (int ex = 1; ex <= (1 << n) - 1; ex++) { // i <= 2 ^ n - 1 // non-empty subsets generate
             ll lcm = 0;
             ll p = 0;
 
