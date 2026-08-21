@@ -2,17 +2,23 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int k) {
         if (hand.size() % k) return false;
+        unordered_map<int, int> frq;
+        for (auto& i : hand) frq[i]++;
 
-        map<int, int> mp;
-        for (auto& i : hand) mp[i]++;
+        priority_queue<int, vector<int>, greater<int>> pq; // min heap
+        for (auto& i : frq) pq.push(i.first);
 
-        while (!mp.empty()) {
-            int p = mp.begin()->first;
-            for (int i = 0; i < k; i++) {
-                if (!mp[p + i]) return false;
+        while (!pq.empty()) {
+            int p = pq.top();
 
-                mp[p + i]--;
-                if (!mp[p + i]) mp.erase(p + i);
+            if (frq[p] == 0) {
+                pq.pop();
+                continue;
+            }
+
+            for (int j = 0; j < k; j++) {
+                if (!frq[p + j]) return false;
+                frq[p + j]--;
             }
         }
         return true;
