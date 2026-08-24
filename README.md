@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2029-stone-game-ix) |
 | [3227-vowels-game-in-a-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3227-vowels-game-in-a-string) |
@@ -910,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -924,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2029-stone-game-ix) |
 ## Tournament Sort
 |  |
