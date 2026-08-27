@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0846-hand-of-straights) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -962,4 +966,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
