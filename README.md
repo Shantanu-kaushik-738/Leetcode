@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3813-vowel-consonant-score](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3813-vowel-consonant-score) |
 | [3838-weighted-word-mapping](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3889-mirror-frequency-distance](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3889-mirror-frequency-distance) |
 ## Simulation
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
