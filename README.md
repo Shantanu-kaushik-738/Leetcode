@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3637-trionic-array-i) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3731-find-missing-elements) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Stack
 |  |
@@ -915,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2596-check-knight-tour-configuration) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Radix Sort
 |  |
 | ------- |
