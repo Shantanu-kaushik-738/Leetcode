@@ -12,21 +12,16 @@ public:
                 if (cr[i][j] == 'S') {
                     x = i;
                     y = j;
-                } else if (cr[i][j] == 'L')
-                    ltr[i][j] = lcnt++;
+                } else if (cr[i][j] == 'L') ltr[i][j] = lcnt++;
             }
         }
-        if (lcnt == 0)
-            return 0;
+        if (lcnt == 0) return 0;
 
         int all = (1 << lcnt) - 1;
         queue<tuple<int, int, int, int, int>> q;
         q.push({x, y, en, 0, 0});
 
-        vector<vector<vector<vector<bool>>>> visit(
-            m, vector<vector<vector<bool>>>(
-                   n, vector<vector<bool>>(en + 1,
-                                           vector<bool>(1 << lcnt, false))));
+        vector<vector<vector<vector<bool>>>> visit(m, vector<vector<vector<bool>>>(n, vector<vector<bool>>(en + 1, vector<bool>(1 << lcnt, false))));
         visit[x][y][en][0] = true;
 
         int dir[5] = {-1, 0, 1, 0, -1};
@@ -44,18 +39,9 @@ public:
                     int nxt = e - 1;
                     int nxtm = mk;
 
-                    if (cr[nr][nc] == 'L') {
-                        nxtm |= (1 << ltr[nr][nc]);
-                    }
-
-                    if (nxtm == all) {
-                        return st + 1;
-                    }
-
-                    if (cr[nr][nc] == 'R') {
-                        nxt = en;
-                    }
-
+                    if (cr[nr][nc] == 'L') nxtm |= (1 << ltr[nr][nc]);
+                    if (nxtm == all) return st + 1;
+                    if (cr[nr][nc] == 'R') nxt = en;
                     if (nxt == 0 && cr[nr][nc] != 'R') continue;
 
                     if (!visit[nr][nc][nxt][nxtm]) {
