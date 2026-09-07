@@ -1,32 +1,20 @@
 class Solution {
 public:
-    int m = 1e9 + 7;
-    int dp[2001];
-    vector<int> prev; 
-
-    int funx(int n) {
-        if(n == 0) return 1;
-        if(dp[n] != -1) return dp[n];
-        
-        int t = (2 * funx(n - 1)) % m;
-
-        if(prev[n]) {
-            t = (t - funx(prev[n] - 1) + m) % m;
-        }
-        return dp[n] = t;
-    }
-
     int distinctSubseqII(string s) {
-        int n = s.length();
+        int m = 1e9 + 7;
+        vector<long long> last(26); // cnt the number of subseq of char
 
-        memset(dp, -1, sizeof(dp));
-        prev.assign(n+1, 0);
+        for (auto& i : s) {
+            long long t = 0;
+            for (int j = 0; j < 26; j++)
+                t = (t + last[j]) % m;
 
-        vector<int> last(26, 0);
-        for(int i = 1; i <= n; i++) {
-            prev[i] = last[s[i-1] -'a'];
-            last[s[i-1] -'a'] = i;
+            last[i - 'a'] = (t + 1) % m;
         }
-        return (funx(n) - 1 + m) % m;
+
+        long long ans = 0;
+        for (int i = 0; i < 26; i++)
+            ans = (ans + last[i]) % m;
+        return (int)ans;
     }
 };
