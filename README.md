@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0877-stone-game) |
 | [1006-clumsy-factorial](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -1033,4 +1034,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0678-valid-parenthesis-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
