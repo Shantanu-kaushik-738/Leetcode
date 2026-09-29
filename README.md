@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2596-check-knight-tour-configuration](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
 | ------- |
