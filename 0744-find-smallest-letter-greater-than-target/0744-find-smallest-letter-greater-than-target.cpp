@@ -1,12 +1,7 @@
 class Solution {
 public:
     char nextGreatestLetter(vector<char>& letters, char target) {
-
-        for (auto ch : letters) {
-            if (ch > target) {
-                return ch;
-            }
-        }
+        for (auto& i : letters) if (i > target) return i;
         return letters[0];
     }
 };
