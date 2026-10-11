@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/1291-sequential-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shantanu-kaushik-738/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
