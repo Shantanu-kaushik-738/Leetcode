@@ -1,31 +1,16 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int t) {
-        int st = 0;
-        int end = nums.size() - 1;
-
-        while (st <= end) {
-            int mid = st + (end - st) / 2;
-
-            if (nums[mid] == t) {
-                return mid;
-            }
-
-            // left sort
-            if (nums[st] <= nums[mid]) {
-                if (nums[st] <= t && nums[mid] >= t) {
-                    end = mid - 1;
-                } else {
-                    st = mid + 1;
-                }
-            }
-            // right sort
-            else {
-                if (nums[mid] <= t && nums[end] >= t) {
-                    st = mid + 1;
-                } else {
-                    end = mid - 1;
-                }
+    int search(vector<int>& nums, int k) {
+        int l = 0, r = nums.size() - 1;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
+            if (nums[mid] == k) return mid;
+            if (nums[l] <= nums[mid]) { // left sorted
+                if (nums[l] <= k && k < nums[mid]) r = mid - 1;
+                else l = mid + 1;
+            } else { // right sorted 
+                if (nums[mid] < k && k <= nums[r]) l = mid + 1;
+                else r = mid - 1;
             }
         }
         return -1;
