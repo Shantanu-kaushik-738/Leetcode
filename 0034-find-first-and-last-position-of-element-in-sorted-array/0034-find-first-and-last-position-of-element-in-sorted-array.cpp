@@ -1,47 +1,40 @@
 class Solution {
 public:
-    int findf(vector<int>& nums, int target) {
-        int low = 0;
-        int high = nums.size() - 1;
-        int ans = -1;
-
-        while (low <= high) {
+    int lower(vector<int>& arr, int x) {
+        int low = 0, high = arr.size() - 1; 
+        int res = -1;
+  
+        while (low <= high) { 
             int mid = low + (high - low) / 2;
-            if (nums[mid] == target) {
-                ans = mid;
+  
+            if (arr[mid] == x) {
+                res = mid;
                 high = mid - 1;
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-        return ans;
+            } else if (arr[mid] < x) low = mid + 1;
+            else high = mid - 1;
+        } 
+        return res;
     }
 
-    int findl(vector<int>& nums, int target) {
-        int low = 0;
-        int high = nums.size() - 1;
-        int ans = -1;
-
-        while (low <= high) {
+    int upper(vector<int>& arr, int x) {
+        int low = 0, high = arr.size() - 1; 
+        int res = -1;
+  
+        while (low <= high) { 
             int mid = low + (high - low) / 2;
-            if (nums[mid] == target) {
-                ans = mid;
+  
+            if (arr[mid] == x) {
+                res = mid;
                 low = mid + 1;
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
-        return ans;
+            } else if (arr[mid] < x) low = mid + 1;
+            else high = mid - 1;
+        } 
+        return res;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int fst = findf(nums, target);
-        int lst = findl(nums, target);
-
-        return {fst, lst};
+        int low = lower(nums, target);
+        if (low == -1) return {-1, -1};
+        return {low, upper(nums, target)};
     }
 };
