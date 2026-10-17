@@ -21,12 +21,8 @@ public:
         while (t1 || t2) {
             int sum = car;
 
-            if (t1) {
-                sum += t1->val;
-            }
-            if (t2) {
-                sum += t2->val;
-            }
+            if (t1) sum += t1->val;
+            if (t2) sum += t2->val;
 
             ListNode* nNode = new ListNode(sum % 10);
             car = sum / 10;
@@ -34,12 +30,8 @@ public:
             crr->next = nNode;
             crr = crr->next;
 
-            if (t1) {
-                t1 = t1->next;
-            }
-            if (t2) {
-                t2 = t2->next;
-            }
+            if (t1) t1 = t1->next;
+            if (t2) t2 = t2->next;
         }
 
         if (car) {
