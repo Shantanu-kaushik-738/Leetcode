@@ -1,15 +1,10 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if (s.length() != t.length()) {
-            return false;
-        }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-
-        if (s != t) {
-            return false;
-        }
+        vector<int> frq(26);
+        for (auto& i : s) frq[i - 'a']++;
+        for (auto& i : t) frq[i - 'a']--;
+        for (auto& i : frq) if (i) return false;
         return true;
     }
 };
