@@ -4,8 +4,7 @@ public:
         if (nums.size() == 0) return 0;
 
         sort(nums.begin(), nums.end());
-        int maxi = 1;
-        int cnt = 1;
+        int maxi = 1, cnt = 1;
 
         for (int i = 0; i < nums.size() - 1; i++) {
             if (nums[i] == nums[i + 1]) continue;
