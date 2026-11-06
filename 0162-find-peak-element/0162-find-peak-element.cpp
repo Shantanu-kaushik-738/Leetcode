@@ -6,12 +6,8 @@ public:
 
         while (st < end) {
             int mid = st + (end - st) / 2;
-
-            if (nums[mid] < nums[mid + 1]) {
-                st = mid + 1;  
-            } else {
-                end = mid;     
-            }
+            if (nums[mid] < nums[mid + 1]) st = mid + 1;  
+            else end = mid;
         }
         return st;  
     }
