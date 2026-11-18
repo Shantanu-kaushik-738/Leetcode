@@ -8,6 +8,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     int pairSum(ListNode* head) {
@@ -19,22 +20,25 @@ public:
             fast = fast->next->next;
         }
 
-        ListNode* prev = NULL;
-        while (slow) {
-            ListNode* next = slow->next;
-            slow->next = prev;
-            prev = slow;
-            slow = next;
+        ListNode* pre = nullptr;
+        ListNode* curr = slow;
+        ListNode* next = nullptr;
+
+        while (curr) {
+            next = curr->next;
+            curr->next = pre;
+            pre = curr;
+            curr = next;
         }
 
-        int sum = 0;
+        int ans = 0;
         slow = head;
-
-        while (slow && prev) {
-            sum = max(sum, (slow->val + prev->val));
+        fast = pre;
+        while (slow && fast) {
+            ans = max(ans, (slow->val + fast->val));
             slow = slow->next;
-            prev = prev->next;
+            fast = fast->next;
         }
-        return sum;
+        return ans;
     }
 };
