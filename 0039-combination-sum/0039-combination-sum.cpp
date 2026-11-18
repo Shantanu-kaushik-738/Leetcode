@@ -1,28 +1,20 @@
 class Solution {
 public:
-    void cs(vector<int> nums, int i, vector<int> arr, vector<vector<int>>& ans, int k) {
+    vector<vector<int>> ans;
+    void f(vector<int>& candy, int i, int n, int k, vector<int>& arr) {
+        if (i >= n || k < 0) return;
+        if (!k) { ans.push_back(arr); return; }
 
-        if (i == nums.size() || k < 0) {
-            return;
-        }
-
-        if (k == 0) {
-            ans.push_back(arr);
-            return;
-        }
-
-        arr.push_back(nums[i]);
-        cs(nums, i, arr, ans, k - nums[i]); // inclusion
-
+        arr.push_back(candy[i]);
+        f(candy, i, n, k - candy[i], arr);
         arr.pop_back();
-        cs(nums, i + 1, arr, ans, k); // exclusion
+        f(candy, i + 1, n, k, arr);
     }
 
-    vector<vector<int>> combinationSum(vector<int>& nums, int k) {
-        vector<vector<int>> ans;
+    vector<vector<int>> combinationSum(vector<int>& candy, int k) {
         vector<int> arr;
-
-        cs(nums, 0, arr, ans, k);
+        int i = 0, n = candy.size();
+        f(candy, i, n, k, arr);
         return ans;
     }
 };
