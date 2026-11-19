@@ -1,31 +1,27 @@
 class Solution {
 public:
-    vector<vector<int>> dir{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    bool find(int i, int j, int idx, vector<vector<char>>& board, string word) {
-        if (idx == word.length()) return true;
+    bool f(vector<vector<char>>& mat, string word, int i, int j, int k, int n, int m) {
+        if (k == word.size()) return true;
 
-        if (i >= board.size() || j >= board[0].size() || i < 0 || j < 0 || board[i][j] == '.' || board[i][j] != word[idx]) return false;
+        if (i < 0 || i >= n || j < 0 || j >= m || mat[i][j] != word[k]) return false;
 
-        char c = board[i][j];
-        board[i][j] = '.'; // visited
+        auto p = mat[i][j];
+        mat[i][j] = '.';
 
-        for (auto& d : dir) { // for each 4 direction
-            if (find(i + d[0], j + d[1], idx + 1, board, word)) return true;
-        }
+        if (f(mat, word, i + 1, j, k + 1, n, m)) return true;
+        if (f(mat, word, i, j - 1, k + 1, n, m)) return true;
+        if (f(mat, word, i, j + 1, k + 1, n, m)) return true;
+        if (f(mat, word, i - 1, j, k + 1, n, m)) return true;
 
-        board[i][j] = c; // backtrack
+        mat[i][j] = p;
         return false;
     }
 
-    bool exist(vector<vector<char>>& board, string word) {
-        int n = board.size();
-        int m = board[0].size();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (board[i][j] == word[0] && find(i, j, 0, board, word)) return true;
-            }
-        }
+    bool exist(vector<vector<char>>& mat, string word) {
+        int i = 0, j = 0, k = 0, n = mat.size(), m = mat[0].size();
+        for (int i = 0; i < n; i++) 
+            for (int j = 0; j < m; j++) 
+                if (f(mat, word, i, j, k, n, m)) return true;
         return false;
     }
 };
