@@ -1,23 +1,18 @@
 class Solution {
 public:
-    void helper(int k, int n, vector<int>& arr, vector<vector<int>>& res, int i) {
-        if (n == 0 && k == 0) {
-            res.push_back(arr);
-            return;
-        }
-
-        if (i > 9 || n < 0 || k < 1) return;
-
-        arr.push_back(i); // inclusion
-        helper(k - 1, n - i, arr, res, i + 1);
-        arr.pop_back(); // exclusion
-        helper(k, n, arr, res, i + 1);
+    vector<vector<int>> ans;
+    void f(vector<int>& nums, int k, int n, int i) {
+        if (!n && !k) { ans.push_back(nums); return; }
+        if (i < 1 || i > 9 || n < 1) return;
+        nums.push_back(i);
+        f(nums, k - 1, n - i, i + 1);
+        nums.pop_back();
+        f(nums, k, n, i + 1);
     }
 
     vector<vector<int>> combinationSum3(int k, int n) {
-        vector<vector<int>> res;
-        vector<int> arr;
-        helper(k, n, arr, res, 1);
-        return res;
+        vector<int> nums;
+        f(nums, k, n, 1);
+        return ans;    
     }
 };
