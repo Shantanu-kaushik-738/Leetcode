@@ -3,18 +3,14 @@ public:
     bool isHappy(int n) {
 
         int ans = 0;
-        while (n != 0) {
+        while (n) {
             int d = n % 10;
             ans += (d * d);
             n /= 10;
         }
 
-        if (ans == 1) {
-            return true;
-        }
-        if (ans == 4) {
-            return false;
-        }
+        if (ans == 1) return true;
+        if (ans == 4) return false;
         return isHappy(ans);
     }
 };
