@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool isHappy(int n) {
-
-        int ans = 0;
-        while (n) {
-            int d = n % 10;
-            ans += (d * d);
-            n /= 10;
+        while (n != 1 && n != 4) {
+            int sum = 0;
+            while (n) {
+                sum += (n % 10) * (n % 10);
+                n /= 10;
+            }
+            n = sum;
         }
-
-        if (ans == 1) return true;
-        if (ans == 4) return false;
-        return isHappy(ans);
+        return n & 1;
     }
 };
