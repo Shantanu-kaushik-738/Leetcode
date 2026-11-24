@@ -5,10 +5,10 @@ public:
         while (l <= r) {
             int mid = l + (r - l) / 2;
             if (nums[mid] == k) return mid;
-            if (nums[l] <= nums[mid]) { // left sorted
+            if (nums[l] <= nums[mid]) { // left sort
                 if (nums[l] <= k && k < nums[mid]) r = mid - 1;
                 else l = mid + 1;
-            } else { // right sorted 
+            } else { // right sort
                 if (nums[mid] < k && k <= nums[r]) l = mid + 1;
                 else r = mid - 1;
             }
