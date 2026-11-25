@@ -4,16 +4,11 @@ public:
         int l = 0, r = nums.size() - 1;
         int mini = 1e9;
 
-        while (l <= r) {
+        while (l < r) {
             int m = l + (r - l) / 2;
-            if (nums[l] <= nums[m]) {
-                mini = min(mini, nums[l]);
-                l = m + 1;
-            } else {
-                mini = min(mini, nums[m]);
-                r = m - 1;
-            }
+            if (nums[m] > nums[r]) l = m + 1;
+            else r = m;
         }
-        return mini;
+        return nums[l];
     }
 };
