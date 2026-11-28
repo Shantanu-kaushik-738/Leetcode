@@ -13,7 +13,7 @@ public:
                 int w = (ssize(s)) ? (i - s.top() - 1) : i;
                 ans = max(ans, h * w);
             }
-            s.push(i);
+            if (i < n) s.push(i);
         }
         return ans;
     }
